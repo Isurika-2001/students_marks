@@ -1,0 +1,38 @@
+                                 Maths
+======================================================================
+
+                                Class A
+Student name                  Combine Maths       Physics             Chemistry           
+----------------------------------------------------------------------
+rrr                           3                   3                   3                   
+eee                           3                   4                   5                   
+
+
+                                Class B
+Student name                  Combine Maths       Physics             Chemistry           
+----------------------------------------------------------------------
+hhh                           5                   3                   3                   
+vvv                           4                   4                   4                   
+
+
+                                Class C
+Student name                  Combine Maths       Physics             Chemistry           
+----------------------------------------------------------------------
+jjj                           6                   6                   6                   
+kkk                           6                   6                   6                   
+
+
+                                Class D
+Student name                  Combine Maths       Physics             Chemistry           
+----------------------------------------------------------------------
+hhhh                          5                   5                   5                   
+sss                           3                   3                   3                   
+
+
+                                Class E
+Student name                  Combine Maths       Physics             Chemistry           
+----------------------------------------------------------------------
+gggg                          4                   4                   6                   
+www                           3                   3                   3                   
+
+

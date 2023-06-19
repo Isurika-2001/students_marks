@@ -1,0 +1,18 @@
+Class A
+Student name                  Total mark          Class Rank          School Rank         
+qq                            6                   
+eee                           9                   
+
+
+Class B
+Student name                  Total mark          Class Rank          School Rank         
+rrr                           11                  
+ttt                           11                  
+
+
+Class C
+Student name                  Total mark          Class Rank          School Rank         
+yyy                           14                  
+uuu                           15                  
+
+

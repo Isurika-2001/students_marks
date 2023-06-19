@@ -1,0 +1,24 @@
+                              Bio Science
+======================================================================
+
+                                Class A
+Student name                  Biology   Physics   Chemistry 
+----------------------------------------------------------------------
+qq                            2         2         2         
+eee                           3         3         3         
+
+
+                                Class B
+Student name                  Biology   Physics   Chemistry 
+----------------------------------------------------------------------
+rrr                           4         3         4         
+ttt                           5         3         3         
+
+
+                                Class C
+Student name                  Biology   Physics   Chemistry 
+----------------------------------------------------------------------
+yyy                           6         4         4         
+uuu                           7         3         5         
+
+

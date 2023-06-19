@@ -1,0 +1,30 @@
+Class A
+Student name                  Total mark          Class Rank          School Rank         
+rrr                           9                   
+eee                           12                  
+
+
+Class B
+Student name                  Total mark          Class Rank          School Rank         
+hhh                           11                  
+vvv                           12                  
+
+
+Class C
+Student name                  Total mark          Class Rank          School Rank         
+jjj                           18                  
+kkk                           18                  
+
+
+Class D
+Student name                  Total mark          Class Rank          School Rank         
+hhhh                          15                  
+sss                           9                   
+
+
+Class E
+Student name                  Total mark          Class Rank          School Rank         
+gggg                          14                  
+www                           9                   
+
+
