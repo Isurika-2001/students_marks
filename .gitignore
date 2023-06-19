@@ -1,0 +1,10 @@
+# Ignore Visual Studio files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.pdb
+*.obj
+*.exe
+!*.cpp
+!*.h
+.vs/
